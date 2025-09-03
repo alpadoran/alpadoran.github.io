@@ -1,4 +1,3 @@
-# alpadoran.github.io
 # Hi there, I'm Alp Adoran 👋
 
 ### 👨‍💻 About Me
