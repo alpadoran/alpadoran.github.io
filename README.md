@@ -6,4 +6,5 @@ I'm a passionate and curious developer who loves to explore the world of technol
 
 ## Projects
 -[Project1] Tic Tac Toe Scratch Project -[Scratch game](https://scratch.mit.edu/projects/1212299836/fullscreen/)
+
 -[Project1_video] Tic tac Toe promotion and presintation -[The Video](https://drive.google.com/drive/home)
