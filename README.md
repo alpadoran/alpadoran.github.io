@@ -1,4 +1,4 @@
-# Hi there, I'm Alp Adoran 👋
+![Hi there, I'm Alp Adoran 👋](assests/profil.png)
 
 ### 👨‍💻 About Me
 
